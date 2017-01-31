@@ -1,6 +1,6 @@
 # MapApp
 
-This extension allows you to save a searched path, screenshot it as a PNG image. It also allows you to retrieve all of the saved searches from the past.
+This extension allows you to save a searched path, screensnap it as a PNG image. It also allows you to retrieve all of the saved searches from the past.You can see the demonstrations here: https://vimeo.com/201802625.
 
 I created 2 components: for saving a path search and for retrieving saved searches.
 
